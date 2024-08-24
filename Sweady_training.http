@@ -1,0 +1,6 @@
+@Sweady_training_HostAddress = http://localhost:5283
+
+GET {{Sweady_training_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
